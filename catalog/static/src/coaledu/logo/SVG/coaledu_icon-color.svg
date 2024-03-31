@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ICON_COLOR" data-name="ICON COLOR" xmlns="http://www.w3.org/2000/svg" width="110mm" height="110mm" viewBox="0 0 311.81 311.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4dd34;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="ICON">
+    <rect class="cls-1" x="122.08" y="151.05" width="35.32" height="10.7"/>
+    <rect class="cls-1" x="122.08" y="122.72" width="67.55" height="10.7"/>
+    <rect class="cls-1" x="122.08" y="151.05" width="35.32" height="10.7"/>
+    <rect class="cls-1" x="122.08" y="122.72" width="67.55" height="10.7"/>
+    <rect class="cls-1" x="122.08" y="151.05" width="35.32" height="10.7"/>
+    <rect class="cls-1" x="122.08" y="122.72" width="67.55" height="10.7"/>
+    <path class="cls-1" d="m86.89,86.93v137.95h137.93V86.93H86.89Zm102.74,120.81h-67.55v-10.7h67.55v10.7Zm17.59-28.37h-102.74v-74.27h102.74v74.27Z"/>
+  </g>
+</svg>
