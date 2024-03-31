@@ -15,8 +15,8 @@ const theme = {
   lightColor: "#D6D6D6",
 
   // Used in PageHeader
-  pageHeadingBackground: "#26C672",
-  pageHeadingTextColor: "#fff",
+  pageHeadingBackground: 'url("/img/coalfamily_pattern-color.jpg")',
+  pageHeadingTextColor: "#27251F",
 
   // Used in Menu and PageHeader to make sure the top parts have
   // the same height.
