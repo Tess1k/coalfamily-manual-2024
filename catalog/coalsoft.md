@@ -1,4 +1,4 @@
-> „Děláme to na plný COALe!“
+> „My zdokonalujeme systémy. Vy je využíváte naplno.“
 
 ### Obsah
 - [Základní konstrukce](#základní-konstrukce)
