@@ -77,24 +77,45 @@ const pages = [
     content: pageLoader(() => import("./graficky-manual.md"))
   },
   {
-    path: "/barevnost",
-    title: "Barevnost",
-    content: pageLoader(() => import("./barevnost.md"))
+    title: "Naše značky",
+    pages: [
+    {
+      path: "/coalfamily",
+      title: "coalfamily",
+      content: pageLoader(() => import("./coalfamily.md"))
+    },
+    {
+      path: "/coalsoft",
+      title: "coalsoft",
+      content: pageLoader(() => import("./coalsoft.md"))
+    },
+    {
+      path: "/coalios",
+      title: "coalios",
+      content: pageLoader(() => import("./coalios.md"))
+    },
+    {
+      path: "/coaledu",
+      title: "coaledu",
+      content: pageLoader(() => import("./coaledu.md"))
+    },
+    {
+      path: "/coalmarketing",
+      title: "coalmarketing",
+      content: pageLoader(() => import("./coalmarketing.md"))
+    },
+
+  ]
   },
   {
-    path: "/typografie",
+    path: "/typography",
     title: "Typografie",
-    content: pageLoader(() => import("./typografie.md"))
+    content: pageLoader(() => import("./typography.md"))
   },
   {
-    path: "/logotyp",
-    title: "Logotyp",
-    content: pageLoader(() => import("./logotyp.md"))
-  },
-  {
-    path: "/vizualni-prvky",
-    title: "Vizuální prvky",
-    content: pageLoader(() => import("./vizualni-prvky.md"))
+    path: "/grid",
+    title: "Mřížka",
+    content: pageLoader(() => import("./grid.md"))
   },
 ];
 
