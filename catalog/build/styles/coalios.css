@@ -1,0 +1,28 @@
+:root {
+  --brand: #ff9e1b;
+}
+
+/* NADPISY A STAHOVACÍ ODKAZY */
+.catalog-4odoh-Page-className h1,
+.catalog-4odoh-Page-className h2,
+.catalog-4odoh-Page-className h3,
+.catalog-4odoh-Page-className h4,
+.catalog-4odoh-Page-className h5,
+.catalog-28p586-DownloadSpecimen-className,
+a.catalog-ifliuc-linkStyle-linkStyle-linkStyle-activeLinkStyle-activeLinkStyle {
+  color: var(--brand) !important;
+}
+
+/* SVG VE STAHOACÍCH ODKAZECH */
+.catalog-i9pnfz-DownloadIcon-className {
+  fill: var(--brand) !important;
+}
+
+/* HOVER STAHOVÁNÍ UNSET */
+a.catalog-ncb8sx-DownloadSpecimen-className:hover
+  .catalog-28p586-DownloadSpecimen-className,
+a.catalog-ncb8sx-DownloadSpecimen-className:hover
+  .catalog-i9pnfz-DownloadIcon-className {
+  color: #27251f !important;
+  fill: #27251f !important;
+}
