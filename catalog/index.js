@@ -104,8 +104,12 @@ const pages = [
       title: "coalmarketing",
       content: pageLoader(() => import("./coalmarketing.md"))
     },
-
   ]
+  },
+  {
+    path: "/safezone",
+    title: "Bezpečná zóna",
+    content: pageLoader(() => import("./safezone.md"))
   },
   {
     path: "/typography",

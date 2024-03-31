@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ICON_COLOR" data-name="ICON COLOR" xmlns="http://www.w3.org/2000/svg" width="110mm" height="110mm" viewBox="0 0 311.81 311.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c181c6;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M86.92,86.92v137.97h137.97V86.92H86.92ZM104.54,104.56h17.62v74.12h-17.62v-74.12ZM207.24,206.72h-102.71v-17.62h102.71v17.62ZM207.24,104.56v74.33h-73.06v-46.3h17.62v28.67h37.82v-39.09h-55.44v-17.62c24.35,0,48.71,0,73.06,0h0Z"/>
+</svg>
