@@ -87,22 +87,26 @@ const pages = [
     {
       path: "/coalsoft",
       title: "coalsoft",
-      content: pageLoader(() => import("./coalsoft.md"))
+      content: pageLoader(() => import("./coalsoft.md")),
+      styles: ['/styles/coalsoft.css']
     },
     {
       path: "/coalios",
       title: "coalios",
-      content: pageLoader(() => import("./coalios.md"))
+      content: pageLoader(() => import("./coalios.md")),
+      styles: ['/styles/coalios.css']
     },
     {
       path: "/coaledu",
       title: "coaledu",
-      content: pageLoader(() => import("./coaledu.md"))
+      content: pageLoader(() => import("./coaledu.md")),
+      styles: ['/styles/coaledu.css']
     },
     {
       path: "/coalmarketing",
       title: "coalmarketing",
-      content: pageLoader(() => import("./coalmarketing.md"))
+      content: pageLoader(() => import("./coalmarketing.md")),
+      styles: ['/styles/coalmarketing.css']
     },
   ]
   },
@@ -122,6 +126,8 @@ const pages = [
     content: pageLoader(() => import("./grid.md"))
   },
 ];
+
+document.getElementById("catalog");
 
 ReactDOM.render(
   <Catalog title="coalfamily" pages={pages} theme={theme} logoSrc="/src/logo/coalfamily_logo_header.png"/>,
