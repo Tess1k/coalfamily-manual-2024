@@ -73,8 +73,8 @@ const theme = {
 const pages = [
   {
     path: "/",
-    title: "Grafický manuál",
-    content: pageLoader(() => import("./graficky-manual.md"))
+    title: "Brand manuál",
+    content: pageLoader(() => import("./brand-manual.md"))
   },
   {
     title: "Naše značky",
@@ -124,6 +124,6 @@ const pages = [
 ];
 
 ReactDOM.render(
-  <Catalog title="coalfamily" pages={pages} theme={theme} logoSrc="/src/logo/coalfamily_logo_header.png"/>,
+  <Catalog title="coalfamily" pages={pages} theme={theme} logoSrc="/src/coalfamily/hierarchy/hierarchy-square.png"/>,
   document.getElementById("catalog")
 );
