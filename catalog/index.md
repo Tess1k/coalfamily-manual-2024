@@ -10,7 +10,7 @@ V případě rozsáhlých grafických prací zahrnující značku coalfamily dop
 title: Brand manuál (.pdf)
 span: 6
 subtitle: 14.4 MB | 96 stran, 49 dvoustran
-url: assets/coalfamily_brand-manual-digital.pdf
+url: assets/coalfamily_brand-manual_digital.pdf
 ```
 
 ### Jednotlivé logotypy značek ke stažení

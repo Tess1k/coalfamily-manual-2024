@@ -355,7 +355,7 @@ Pro značku coaledu byly vybrány tyto tři primární barvy. Od těchto barev j
 ```color
 span: 6
 name: "Citrónová žlutá"
-value: "#F4DD34"
+value: "#F2C700"
 altValue: "Žlutá je mezinárodně symbolem vzdělávání, touhy rozvíjet se a otevřenosti, což jsou pro organizaci coaledu základní stavební kameny. Používá se na všech materiálech, které nevyužívají pouze monochromatické schéma."
 ```
 
@@ -376,9 +376,9 @@ altValue: "Bílou barvu používáme jako primární podkladovou barvu ve větš
 span: 6
 rows:
   - Barva: Citrónová žlutá
-    HEX kód: "#F4DD34"
-    RGB kód: 244/221/52
-    CMYK kód: 8/7/85/0
+    HEX kód: "#F2C700"
+    RGB kód: 242/199/0
+    CMYK kód: 6/20/95/0
   - Barva: Tmavě šedá
     HEX kód: "#27251F"
     RGB kód: 39/37/31
